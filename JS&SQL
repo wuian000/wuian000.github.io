@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Invoice scanning</title>
+  </head>
+  <body>
+<style type="text/css">
+div{margin:30px;border:0;padding:0;}
+#DIV1{
+  float:left;
+}
+</style>
+<div>
+	<div id="DIV1">發票掃描</h1><br>
+		<img src="https://github.com/wuian000/wuian000.github.io/blob/master/%E5%9C%96%E7%89%871.png?raw=true"></div>
+	<div id="DIV1">掃描發票後的顯示頁面<br>
+		<img src="https://github.com/wuian000/wuian000.github.io/blob/master/%E5%9C%96%E7%89%872.png?raw=true"></div>
+	<div id="DIV1">帳目明細選單<br>
+		<img src="https://github.com/wuian000/wuian000.github.io/blob/master/%E5%9C%96%E7%89%873.png?raw=true"></div>
+	<div id="DIV1">帳目明細<br>
+		<img src="https://github.com/wuian000/wuian000.github.io/blob/master/%E5%9C%96%E7%89%874.png?raw=true"></div>
+</div>
+<div>
+	<div id="DIV1">發票紀錄</h1><br>
+		<img src="https://github.com/wuian000/wuian000.github.io/raw/master/%E5%9C%96%E7%89%875.png"></div>
+	<div id="DIV1">中獎紀錄<br>
+		<img src="https://github.com/wuian000/wuian000.github.io/raw/master/%E5%9C%96%E7%89%876.png"></div>
+	<div id="DIV1">設定消費上限<br>
+		<img src="https://github.com/wuian000/wuian000.github.io/raw/master/%E5%9C%96%E7%89%877.png"></div>
+</div>
+  </body>
+</html>
